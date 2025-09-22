@@ -1,6 +1,4 @@
-# 🏀 NBA Data Analysis
-
-*"The intersection of my two greatest passions: the beautiful game of basketball and the power of data science."*
+# NBA Data Analysis
 
 ## About This Project
 
@@ -72,7 +70,7 @@ A deep dive into one of the greatest players of all time, tracking LeBron James'
 - How his game has evolved and adapted over time
 - Comparison of regular season vs playoff performance
 
-## 🔍 Data Sources & Methodology
+## Data Sources & Methodology
 
 The analysis is based on comprehensive NBA player statistics collected through web scraping and data processing. The dataset includes:
 
@@ -81,7 +79,7 @@ The analysis is based on comprehensive NBA player statistics collected through w
 - **Data Types**: Both regular season and playoff statistics
 - **Advanced Metrics**: True shooting percentage, assist-to-turnover ratio, and other efficiency metrics
 
-## 📈 Key Findings
+## Key Findings
 
 ### The Three-Point Revolution
 The data clearly shows the dramatic increase in three-point attempts and makes over the past two decades, fundamentally changing how the game is played.
@@ -95,7 +93,7 @@ The correlation matrix reveals fascinating relationships between different aspec
 ### LeBron's Consistency
 The LeBron James analysis demonstrates remarkable consistency across multiple statistical categories, showcasing why he's considered one of the greatest players of all time.
 
-## 🎓 What I Learned
+## What I Learned
 
 This project taught me valuable lessons about:
 - **Data Collection**: The challenges and techniques of web scraping sports data
