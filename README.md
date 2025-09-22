@@ -2,15 +2,15 @@
 
 *"The intersection of my two greatest passions: the beautiful game of basketball and the power of data science."*
 
-## 🌟 About This Project
+## About This Project
 
 As a basketball enthusiast and someone who is intrested in data science, I've always been fascinated by the stories hidden within NBA statistics. This project represents my journey of combining my love for the game with my passion for coding, using web scraping and data analysis to uncover insights about player performance, league trends, and the evolution of basketball over time.
 
-## 🎯 Project Overview
+## Project Overview
 
 This comprehensive NBA data analysis explores various aspects of professional basketball through statistical analysis and interactive visualizations. From understanding player correlations to tracking the evolution of the game, this project dives deep into what makes basketball the beautiful sport it is today.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,7 +19,7 @@ This comprehensive NBA data analysis explores various aspects of professional ba
 ![Excel](https://img.shields.io/badge/Excel-Data%20Storage-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Collection-red?style=for-the-badge&logo=web-scraping&logoColor=white)
 
-## 📊 Key Visualizations & Analysis
+## Key Visualizations & Analysis
 
 ### 1. Correlation Matrix Heatmap
 ![Correlation Matrix](public/Screenshot%202025-09-22%20at%205.14.25%20PM.png)
