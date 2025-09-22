@@ -32,7 +32,7 @@ This heatmap reveals the intricate relationships between different NBA statistic
 - Interesting patterns in shooting efficiency metrics
 
 ### 2. Playoff Minutes Distribution
-![Playoff Minutes](public/Screenshot%202025-09-22%20at%205.47.21%20PM.png)
+![Playoff Minutes](./public/Screenshot%202025-09-22%20at%205.47.21%20PM.png)
 
 This histogram shows the distribution of minutes played in playoff games, normalized as percentages. It reveals how playing time is distributed among players during the most crucial part of the season.
 
@@ -42,7 +42,7 @@ This histogram shows the distribution of minutes played in playoff games, normal
 - Insights into player workload management during high-stakes games
 
 ### 3. NBA Evolution Over Time
-![NBA Evolution](public/Screenshot%202025-09-22%20at%205.47.43%20PM.png)
+![NBA Evolution](./public/Screenshot%202025-09-22%20at%205.47.43%20PM.png)
 
 This time series analysis tracks how various NBA statistics have evolved from 2003 to 2022, showing the dramatic changes in how the game is played.
 
@@ -52,7 +52,7 @@ This time series analysis tracks how various NBA statistics have evolved from 20
 - Evolution of player efficiency and advanced metrics
 
 ### 4. Statistical Trends Analysis
-![Statistical Trends](public/Screenshot%202025-09-22%20at%205.48.17%20PM.png)
+![Statistical Trends](./public/Screenshot%202025-09-22%20at%205.48.17%20PM.png)
 
 A comprehensive view of how different statistical categories have changed over the years, providing insights into the modern NBA's playing style.
 
@@ -62,7 +62,7 @@ A comprehensive view of how different statistical categories have changed over t
 - Evolution of assist patterns and ball movement
 
 ### 5. LeBron James Career Analysis
-![LeBron Analysis](public/Screenshot%202025-09-22%20at%205.48.28%20PM.png)
+![LeBron Analysis](./public/Screenshot%202025-09-22%20at%205.48.28%20PM.png)
 
 A deep dive into one of the greatest players of all time, tracking LeBron James' performance across multiple statistical categories throughout his illustrious career.
 
