@@ -22,7 +22,7 @@ This comprehensive NBA data analysis explores various aspects of professional ba
 ## Key Visualizations & Analysis
 
 ### 1. Correlation Matrix Heatmap
-![Correlation Matrix](public/Screenshot%202025-09-22%20at%205.14.25%20PM.png)
+![Correlation Matrix](./public/Screenshot%202025-09-22%20at%205.14.25%20PM.png)
 
 This heatmap reveals the intricate relationships between different NBA statistics. The color intensity shows how strongly different metrics correlate with each other, helping us understand which aspects of the game are most interconnected.
 
